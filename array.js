@@ -31,4 +31,3 @@ var mixedArray = [12, 55, "golap", "abdullah", true];
 // console.log(n.reverse())
 
  
-}

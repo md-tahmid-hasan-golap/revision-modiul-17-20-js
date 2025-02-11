@@ -13,3 +13,7 @@ else if(drinksPrice < 400){
     var jorimana = drinksPrice + 30;
     var payout = drinksPrice + jorimana
 }
+
+// task number - 2
+
+
