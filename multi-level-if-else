@@ -1,0 +1,18 @@
+var price = 5000;
+if(price >= 5000){
+    // 10 % discount
+    var discount = price * 10 / 100;
+    var payout = price - discount;
+    console.log(payout);
+    console.log(discount);
+}
+else if(price >= 2500){
+    // 5 % discount
+    var discount = price * 5 / 100;
+    var payout = price - discount;
+    console.log(payout);
+    console.log(discount)
+}
+else{
+    console.log(price)
+}
