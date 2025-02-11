@@ -15,7 +15,7 @@
 
 // mixed variable array 
 
-var mixedArray = [12, 55, "golap", "abdullah", true];
+// var mixedArray = [12, 55, "golap", "abdullah", true];
 // console.log(mixedArray)
 
 
